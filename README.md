@@ -1,10 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Rails React
+# Hello Rails Back End
 
 > Understand the setup process for adding React/Redux to rails application.
 
 This project is made as part of Microverse program.
+
+you can view the front-end of this app [here](https://github.com/oluyaratosin123/Hello-React-Front-End)
 
 ## Project Requirement
 
